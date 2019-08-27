@@ -10,6 +10,6 @@
 
 **Componentes**
 
-..*Device
+..*Device.
 ...Clientes Web
 ...Smartphone
