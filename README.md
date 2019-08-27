@@ -10,4 +10,5 @@ Na aplicação, qualquer usuário cadastrado poderá criar um evento e ter a seu
 
 **Componentes**
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+* Devices
+..* asdf
