@@ -13,6 +13,5 @@ Na aplicação, qualquer usuário cadastrado poderá criar um evento e ter a seu
 **Componentes**
 
 1. Devices
-
-   Cliente Web
-   Smartphone
+   * Cliente Web
+   * Smartphone
