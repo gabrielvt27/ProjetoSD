@@ -1,6 +1,8 @@
-# My Party
+# Projeto Sistemas Distribuídos
 
-## Formalização do Projeto
+## My Party
+
+### Formalização do Projeto
 
 **Descrição**
 
@@ -13,5 +15,13 @@ Na aplicação, qualquer usuário cadastrado poderá criar um evento e ter a seu
 **Componentes**
 
 1. Devices
-   * Cliente Web
-   * Smartphone
+   * Cliente Web (Browser)
+   * Smartphone (Browser mobile)
+2. Server
+   * Servidor de aplicação (Tomcat)
+3. Store
+   * Banco de Dados
+   
+**Testes**
+
+
