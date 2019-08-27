@@ -4,7 +4,7 @@
 
 ### Descrição
 
-Aplicação com a finalidade de facilitar a criação e o controle de eventos/festas, sendo possível também realizar a venda de ingressos para tais eventos e participar de eventos de outros usuários. 
+A aplicação tem a finalidade de facilitar a criação e o controle de eventos/festas, sendo possível também realizar a venda de ingressos para tais eventos e participar de eventos de outros usuários. 
 
 ### Funcionamento
 
@@ -22,4 +22,5 @@ Na aplicação, qualquer usuário cadastrado poderá criar um evento e ter a seu
    
 **Testes**
 
-
+* **Demostração de funcionalidade:** mostrar que o CRUD (Create, Read, Update e Delete) de usuários e eventos foram implementadas, demostrar o funcionamento da venda de ingressos e a inscrição de um usuário em um evento.
+* **Teste de recuperação de falhas:** mostrar que se a aplicação falhar, não haverá nenhum estado inesperado, como perca de informações das listas de interessados, inscritos e presença, perca de pagamentos de inscrições em um evento.
