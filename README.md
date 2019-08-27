@@ -1,4 +1,4 @@
-# 
+# My Party
 
 ## Formalização do Projeto
 
@@ -10,5 +10,5 @@ Na aplicação, qualquer usuário cadastrado poderá criar um evento e ter a seu
 
 **Componentes**
 
-* Devices
-..* asdf
+* Devices.
+..* as
