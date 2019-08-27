@@ -12,12 +12,12 @@ Na aplicação, qualquer usuário cadastrado poderá criar um evento e ter a seu
 
 ### Componentes
 
-** 1. Devices**
+1. **Devices**
    * Cliente Web (Browser)
    * Smartphone (Browser mobile)
-** 2. Server**
+2. **Server**
    * Servidor de aplicação (Tomcat)
-** 3. Store**
+3. **Store**
    * Banco de Dados
    
 **Testes**
