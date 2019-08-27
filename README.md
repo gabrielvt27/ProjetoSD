@@ -24,3 +24,5 @@ Na aplicação, qualquer usuário cadastrado poderá criar um evento e ter a seu
 
 * **Demostração de funcionalidade:** mostrar que o CRUD (Create, Read, Update e Delete) de usuários e eventos foram implementadas, demostrar o funcionamento da venda de ingressos e a inscrição de um usuário em um evento.
 * **Teste de recuperação de falhas:** mostrar que se a aplicação falhar, não haverá nenhum estado inesperado, como perca de informações das listas de interessados, inscritos e presença, perca de pagamentos de inscrições em um evento.
+* **Teste de concorrência:** mostrar que diversos usuários consigam utilizar a aplicação simultaneamente sem problemas, ou seja, deve ser possível que vários usuários consigam se cadastrar, se inscrever em um evento, gerenciar seus eventos, pagar inscrições, entre outras funções ao mesmo tempo sem ocorrer erros.
+* **Teste de carga:** verificar o volume de transações, acessos simultâneos ou usuários a aplicação suporta sem que haja perda de performace.
